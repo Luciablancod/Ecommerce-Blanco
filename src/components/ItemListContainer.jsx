@@ -1,18 +1,35 @@
-const ItemListContainer = ({ texto }) => {
+import { useEffect, useState } from "react";
+import { ItemList } from "./ItemList"
+import products from "../assets/products.json"
+import { useParams } from "react-router-dom";
+import Hero from "./Hero";
+
+
+const ItemListContainer = ({ title }) => {
+
+    const [items, setItems] = useState([]);
+    const { id } = useParams();
+
+
+    useEffect(() => {
+        setItems([]);
+        const promese = new Promise(resolve => {
+            setTimeout(() => {
+                resolve(id ? products.filter(item => item.category == id) : products)
+            }, 2000)
+        })
+
+        promese.then(response => {
+            setItems(response)
+        })
+    }, [id])
+
+
     return (
         <>
-            <div className="container mt-5">
-                <div className="row">
-                    <div className="col">
-                        <div className="alert alert-light " role="alert">
-                            <h1 className="text-center  border border-warning border-3"  style={{ color: "black", padding: "30px", textTransform: "uppercase" }}>{texto} 💛 </h1> 
-
-                            
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+            {id ? "" : <Hero /> }
+            <ItemList items={items} title={ title ? title : "Comprá por categoría - " + id}  />
+            
         </>
 
     )

@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "title": "Apple iPhone 15 Pro Max (256 GB) - Titanio Azul",
+        "description": [
+            "Memoria RAM: 8 GB",
+            "Diseño resistente y ligero",
+            "Pantalla Super Retina XDR con ProMotion con frecuencia de actualización hasta 120 Hz",
+            "La Dynamic Island muestra alertas y actividades en vivo al instante",
+            "Sistema de cámaras pro de super alta resolución",
+            "Botón de acción personalizable para ir a tu funcionalidad favorita",
+            "Con conector USB-C y WiFi 6 con el doble de velocidad",
+            "Funcionalidad esencial de seguridad con detección de choques para pedir ayuda",
+            "Con tecnologías de privacidad que te ayudan a mantener el control de tus datos"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_912227-MLA71782903150_092023-O.webp",
+        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_678556-MLU75327854963_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_998135-MLU75327854969_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_998135-MLU75327854969_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_754305-MLU75327854975_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_791799-MLA71783367236_092023-R.webp","https://http2.mlstatic.com/D_Q_NP_896495-MLA71783169542_092023-R.webp", "https://http2.mlstatic.com/D_Q_NP_968441-MLA71782903158_092023-R.webp"],
+        "price": 2427640,
+        "stock": 5,
+        "shipping": true,
+        "category": "ofertas"
+    },
+    {
+        "id": 2,
+        "title": "Smart Philips 32 Hd 32phd6918/77 Google Tv SERIE 6000",
+        "description": [
+           "Tamaño de la pantalla: 32",
+           "Su resolución es HD.",
+            "Tecnología HDR para una calidad de imagen mejorada.",
+            "Modo de sonido: Dolby Audio.",
+            "Manejalo por comando de voz.",
+            "Sistema operativo Google TV.",
+           "Capacidad de almacenamiento de 8GB.",
+            "Conectá tus dispositivos mediante sus 3 puertos HDMI y sus 2 puertos USB.",
+            "Dimensiones: 717mm de ancho, 435mm de alto, 89mm de profundidad.",
+            "Entretenimiento y conectividad en un mismo lugar."
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_677196-MLU74154724021_012024-O.webp",
+        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_677196-MLU74154724021_012024-R.webp","https://http2.mlstatic.com/D_Q_NP_973962-MLU74141738047_012024-R.webp","https://http2.mlstatic.com/D_Q_NP_936776-MLU74180258459_012024-R.webp","https://http2.mlstatic.com/D_Q_NP_721386-MLU74827898131_022024-R.webp"],
+        "price": 244999,
+        "stock": 3,
+        "shipping": false,
+        "category": "ofertas"
+    },
+    {
+        "id": 3,
+        "title": "Consola Sony Ps4 1tb + Juego God Of War Ragnarok",
+        "description": [
+    "Capacidad: 1 TB",
+       "Incluye control.",
+        "Resolución de 1920px x 1080px.",
+        "Memoria RAM de 8GB.",
+        "Cuenta con: 1 auricular monoaural.",
+        "La duración de la batería de los controles depende del uso que se le dé al producto."
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_799802-MLU69383729788_052023-O.webp",
+        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_799802-MLU69383729788_052023-R.webp","https://http2.mlstatic.com/D_Q_NP_902480-MLU74859006829_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_748417-MLU74826642531_022024-R.webp","https://http2.mlstatic.com/D_Q_NP_972995-MLU74826662135_022024-R.webp"],
+        "price": 644999,
+        "stock": 15,
+        "shipping": true,
+        "category": "ofertas"
+    },
+    {
+        "id": 4,
+        "title": "Cápsulas Nescafé Dolce Gusto Cappuccino Oficial",
+        "description": [
+            "Unidades por envase: 16",
+            "Unidades por pack: 1",
+            "Producto indicado para utilizar en una taza de 240 ml."
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_895543-MLU72851431786_112023-O.webp",
+        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_895543-MLU72851431786_112023-R.webp","https://http2.mlstatic.com/frontend-assets/vpp-frontend/picture-play.svg","https://http2.mlstatic.com/D_Q_NP_762275-MLU70292109289_072023-R.webp","https://http2.mlstatic.com/D_Q_NP_671502-MLU70292218497_072023-R.webp", "https://http2.mlstatic.com/D_Q_NP_856029-MLU70292109293_072023-R.webp","https://http2.mlstatic.com/D_Q_NP_941126-MLU70292109291_072023-R.webp","https://http2.mlstatic.com/D_Q_NP_848566-MLU75763811291_042024-R.webp"],
+        "price": 10499,
+        "stock": 7,
+        "shipping": false,
+        "category": "supermercado"
+    },
+    {
+        "id": 5,
+        "title": "Pasta De Mani Natural Mani King X 485g Sin Tacc",
+        "description": [
+            "Sin TACC.",
+            "Crema de maní natural.",
+            "Envase de plástico de 485grs"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_897562-MLA49076098557_022022-O.webp",
+        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_897562-MLA49076098557_022022-R.webp","https://http2.mlstatic.com/D_Q_NP_984452-MLU72804726533_112023-R.webp","https://http2.mlstatic.com/D_Q_NP_985587-MLU72728931134_112023-R.webp","https://http2.mlstatic.com/D_Q_NP_806138-MLU73474164132_122023-R.webp","https://http2.mlstatic.com/D_Q_NP_801643-MLU73566752691_122023-R.webp", "https://http2.mlstatic.com/D_Q_NP_869373-MLU73567055209_122023-R.webp"],
+        "price": 3199,
+        "stock": 7,
+        "shipping": true,
+        "category": "supermercado"
+    },
+    {
+        "id": 6,
+        "title": "Aceite Oliva Virgen Extra Oliovita Gourmet Bib 3 L Sin Tacc",
+        "description": [
+            "Volumen de la unidad: 3 L",
+            "Tipo de envase: Bag in box",
+            "Unidades por pack: 1",
+            "Ideal para cocinar.",
+            "Es orgánico."
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_756337-MLU72823084179_112023-O.webp",
+        "thumbnails": ["https://http2.mlstatic.com/D_NQ_NP_756337-MLU72823084179_112023-O.webp","https://http2.mlstatic.com/D_Q_NP_913661-MLU75838526905_042024-R.webp","https://http2.mlstatic.com/D_Q_NP_892550-MLU75838556711_042024-R.webp"],
+        "price": 88900,
+        "stock": 11,
+        "shipping": false,
+        "category": "supermercado"
+    },
+    {
+        "id": 7,
+        "title": "Zapatilla Puma Rosa Blstr Mix Wns",
+        "description": ["Marca: Puma",
+        "Materiales de la suela: Goma",
+        "Deportes recomendados: Casual",
+        "Materiales del exterior: Cuero",
+        "Temporada de lanzamiento: Todas las estaciones",
+        "Diseño De La Tela: Lisa"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_657349-MLA75962130896_052024-O.webp",
+        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_861521-MLA75962130900_052024-R.webp", "https://http2.mlstatic.com/D_Q_NP_870653-MLA75962130902_052024-R.webp", "https://http2.mlstatic.com/D_Q_NP_618788-MLA75962130898_052024-R.webp","https://http2.mlstatic.com/D_Q_NP_722318-MLA75962130892_052024-R.webp","https://http2.mlstatic.com/D_Q_NP_959517-MLA75962130894_052024-R.webp","https://http2.mlstatic.com/D_Q_NP_871584-MLA76069187180_052024-R.webp"],
+        "price": 159999,
+        "stock": 2,
+        "shipping": true,
+        "category": "moda"
+    },
+    {
+        "id": 8,
+        "title": "Reloj Tommy Hilfiger Para Hombre De Acero",
+        "description": [
+        "Tipo de movimiento: cuarzo.",
+        "Resistente al agua."
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_906280-MLU74440402230_022024-O.webp",
+        "thumbnails": ["https://http2.mlstatic.com/D_NQ_NP_906280-MLU74440402230_022024-O.webp","https://http2.mlstatic.com/D_Q_NP_866393-MLU72418305346_102023-R.webp","https://http2.mlstatic.com/D_Q_NP_636645-MLU72486066901_102023-R.webp","https://http2.mlstatic.com/D_Q_NP_998243-MLU72486066907_102023-R.webp","https://http2.mlstatic.com/D_Q_NP_695716-MLU74986336296_032024-R.webp", "https://http2.mlstatic.com/D_Q_NP_871640-MLU74986336286_032024-R.webp"],
+        "price": 375754,
+        "stock": 25,
+        "shipping": false,
+        "category": "moda"
+    },
+    {
+        "id": 9,
+        "title": "Campera De Mujer Montagne Umay - Montagne Tienda",
+        "description": ["Marca: Montagne","Material principal: Poliamida","Capucha: Sí"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_877285-MLA51355932321_082022-O.webp",
+        "thumbnails": ["https://http2.mlstatic.com/D_NQ_NP_877285-MLA51355932321_082022-O.webp","https://http2.mlstatic.com/D_Q_NP_911135-MLA51356012088_082022-R.webp","https://http2.mlstatic.com/D_Q_NP_901162-MLA51355829634_082022-R.webp","https://http2.mlstatic.com/D_Q_NP_993683-MLA51356012091_082022-R.webp","https://http2.mlstatic.com/D_Q_NP_836022-MLA51356012093_082022-R.webp","https://http2.mlstatic.com/D_Q_NP_736823-MLA47445708190_092021-R.webp"],
+        "price": 536094,
+        "stock": 20,
+        "shipping": true,
+        "category": "moda"
+    }
+]

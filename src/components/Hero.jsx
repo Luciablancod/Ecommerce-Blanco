@@ -5,22 +5,22 @@ const Hero = () => {
 
                 <div className="carousel-inner ">
                     <div className="carousel-item active">
-                        <img src="/images\hero-1.JPG" className="d-block w-100 object-fit-cover" alt="..." />
+                        <img src="https://http2.mlstatic.com/D_NQ_722183-MLA77275293524_072024-OO.webp" className="d-block w-100 object-fit-cover" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="/images\hero-2.JPG" className="d-block w-100 object-fit-cover" alt="..." />
+                        <img src="https://http2.mlstatic.com/D_NQ_688536-MLA77430786100_072024-OO.webp" className="d-block w-100 object-fit-cover" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="/images\hero-3.JPG" className="d-block w-100 object-fit-cover" alt="..." />
+                        <img src="https://http2.mlstatic.com/D_NQ_830407-MLA77384168288_072024-OO.webp" className="d-block w-100 object-fit-cover" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="/images\hero-4.JPG" className="d-block w-100 object-fit-cover" alt="..." />
+                        <img src="https://http2.mlstatic.com/D_NQ_945514-MLA77600731745_072024-OO.webp" className="d-block w-100 object-fit-cover" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="/images\hero-5.JPG" className="d-block w-100 object-fit-cover" alt="..." />
+                        <img src="https://http2.mlstatic.com/D_NQ_994387-MLA77382061508_072024-OO.webp" className="d-block w-100 object-fit-cover" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="/images\hero-6.JPG" className="d-block w-100 object-fit-cover" alt="..." />
+                        <img src="https://http2.mlstatic.com/D_NQ_687877-MLA77625094927_072024-OO.webp" className="d-block w-100 object-fit-cover" alt="..." />
                     </div>
                 </div>
 
@@ -33,11 +33,10 @@ const Hero = () => {
                     <span className="carousel-control-next-icon" aria-hidden="true"></span>
                     <span className="visually-hidden">Next</span>
                 </button>
+                <div className="gradient"></div>
             </div>
-
-
+            
         </>
-
     )
 }
 
