@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "title": "Apple iPhone 15 Pro Max (256 GB) - Titanio Azul",
         "description": [
             "Memoria RAM: 8 GB",
@@ -21,7 +20,6 @@
         "category": "ofertas"
     },
     {
-        "id": 2,
         "title": "Smart Philips 32 Hd 32phd6918/77 Google Tv SERIE 6000",
         "description": [
            "Tamaño de la pantalla: 32",
@@ -43,7 +41,6 @@
         "category": "ofertas"
     },
     {
-        "id": 3,
         "title": "Consola Sony Ps4 1tb + Juego God Of War Ragnarok",
         "description": [
     "Capacidad: 1 TB",
@@ -61,7 +58,6 @@
         "category": "ofertas"
     },
     {
-        "id": 4,
         "title": "Cápsulas Nescafé Dolce Gusto Cappuccino Oficial",
         "description": [
             "Unidades por envase: 16",
@@ -76,7 +72,6 @@
         "category": "supermercado"
     },
     {
-        "id": 5,
         "title": "Pasta De Mani Natural Mani King X 485g Sin Tacc",
         "description": [
             "Sin TACC.",
@@ -91,7 +86,6 @@
         "category": "supermercado"
     },
     {
-        "id": 6,
         "title": "Aceite Oliva Virgen Extra Oliovita Gourmet Bib 3 L Sin Tacc",
         "description": [
             "Volumen de la unidad: 3 L",
@@ -108,7 +102,6 @@
         "category": "supermercado"
     },
     {
-        "id": 7,
         "title": "Zapatilla Puma Rosa Blstr Mix Wns",
         "description": ["Marca: Puma",
         "Materiales de la suela: Goma",
@@ -125,7 +118,6 @@
         "category": "moda"
     },
     {
-        "id": 8,
         "title": "Reloj Tommy Hilfiger Para Hombre De Acero",
         "description": [
         "Tipo de movimiento: cuarzo.",
@@ -139,7 +131,6 @@
         "category": "moda"
     },
     {
-        "id": 9,
         "title": "Campera De Mujer Montagne Umay - Montagne Tienda",
         "description": ["Marca: Montagne","Material principal: Poliamida","Capucha: Sí"
         ],

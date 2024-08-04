@@ -1,6 +1,14 @@
+import { useContext } from "react"
 import { ItemCount } from "./ItemCount"
+import { CartContext } from "./context/CartContext"
 
 export const ItemDetail = ({ item }) => {
+
+    const {addItem} = useContext(CartContext);
+
+    const onAdd = (quantity) => {
+        addItem(item, quantity);
+    }
 
     return (
         <>
@@ -43,7 +51,8 @@ export const ItemDetail = ({ item }) => {
                                     <li>No description available</li>
                                 )}
                             </ul>
-                            <ItemCount stock={item.stock} />
+                            
+                            <ItemCount stock={item.stock} onAdd={onAdd} />
                         </div>
                     </div>
                 </div>
