@@ -13,7 +13,15 @@
             "Con tecnologías de privacidad que te ayudan a mantener el control de tus datos"
         ],
         "image": "https://http2.mlstatic.com/D_NQ_NP_912227-MLA71782903150_092023-O.webp",
-        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_678556-MLU75327854963_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_998135-MLU75327854969_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_998135-MLU75327854969_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_754305-MLU75327854975_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_791799-MLA71783367236_092023-R.webp","https://http2.mlstatic.com/D_Q_NP_896495-MLA71783169542_092023-R.webp", "https://http2.mlstatic.com/D_Q_NP_968441-MLA71782903158_092023-R.webp"],
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_678556-MLU75327854963_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_998135-MLU75327854969_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_998135-MLU75327854969_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_754305-MLU75327854975_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_791799-MLA71783367236_092023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_896495-MLA71783169542_092023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_968441-MLA71782903158_092023-R.webp"
+        ],
         "price": 2427640,
         "stock": 5,
         "shipping": true,
@@ -22,19 +30,24 @@
     {
         "title": "Smart Philips 32 Hd 32phd6918/77 Google Tv SERIE 6000",
         "description": [
-           "Tamaño de la pantalla: 32",
-           "Su resolución es HD.",
+            "Tamaño de la pantalla: 32",
+            "Su resolución es HD.",
             "Tecnología HDR para una calidad de imagen mejorada.",
             "Modo de sonido: Dolby Audio.",
             "Manejalo por comando de voz.",
             "Sistema operativo Google TV.",
-           "Capacidad de almacenamiento de 8GB.",
+            "Capacidad de almacenamiento de 8GB.",
             "Conectá tus dispositivos mediante sus 3 puertos HDMI y sus 2 puertos USB.",
             "Dimensiones: 717mm de ancho, 435mm de alto, 89mm de profundidad.",
             "Entretenimiento y conectividad en un mismo lugar."
         ],
         "image": "https://http2.mlstatic.com/D_NQ_NP_677196-MLU74154724021_012024-O.webp",
-        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_677196-MLU74154724021_012024-R.webp","https://http2.mlstatic.com/D_Q_NP_973962-MLU74141738047_012024-R.webp","https://http2.mlstatic.com/D_Q_NP_936776-MLU74180258459_012024-R.webp","https://http2.mlstatic.com/D_Q_NP_721386-MLU74827898131_022024-R.webp"],
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_677196-MLU74154724021_012024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_973962-MLU74141738047_012024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_936776-MLU74180258459_012024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_721386-MLU74827898131_022024-R.webp"
+        ],
         "price": 244999,
         "stock": 3,
         "shipping": false,
@@ -43,18 +56,94 @@
     {
         "title": "Consola Sony Ps4 1tb + Juego God Of War Ragnarok",
         "description": [
-    "Capacidad: 1 TB",
-       "Incluye control.",
-        "Resolución de 1920px x 1080px.",
-        "Memoria RAM de 8GB.",
-        "Cuenta con: 1 auricular monoaural.",
-        "La duración de la batería de los controles depende del uso que se le dé al producto."
+            "Capacidad: 1 TB",
+            "Incluye control.",
+            "Resolución de 1920px x 1080px.",
+            "Memoria RAM de 8GB.",
+            "Cuenta con: 1 auricular monoaural.",
+            "La duración de la batería de los controles depende del uso que se le dé al producto."
         ],
         "image": "https://http2.mlstatic.com/D_NQ_NP_799802-MLU69383729788_052023-O.webp",
-        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_799802-MLU69383729788_052023-R.webp","https://http2.mlstatic.com/D_Q_NP_902480-MLU74859006829_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_748417-MLU74826642531_022024-R.webp","https://http2.mlstatic.com/D_Q_NP_972995-MLU74826662135_022024-R.webp"],
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_799802-MLU69383729788_052023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_902480-MLU74859006829_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_748417-MLU74826642531_022024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_972995-MLU74826662135_022024-R.webp"
+        ],
         "price": 644999,
         "stock": 15,
         "shipping": true,
+        "category": "ofertas"
+    },
+    {
+        "title": "Bicicleta Mtb Overtech Q6 R29 Aluminio 21v Freno A Disco Pc",
+        "description": [
+            "Rodado: 29",
+            "Tipo de bicicleta: Mountain bike",
+            "Peso máximo soportado: 120 kg",
+            "Género: Sin género",
+            "Marca: Overtech",
+            "Grupo etario: Adultos",
+            "Cantidad de velocidades: 21",
+            "Con impacto positivo: Sí",
+            "Es plegable: No"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_971360-MLA77918473358_082024-O.webp",
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_971360-MLA77918473358_082024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_853960-MLA77918786162_082024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_690825-MLA77918776232_082024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_657833-MLA77918580986_082024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_935997-MLA77918796070_082024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_771527-MLA77918571356_082024-R.webp"
+        ],
+        "price": 256999,
+        "stock": 15,
+        "shipping": true,
+        "category": "ofertas"
+    },
+    {
+        "title": "Parlante Torre Philco Tpl4500 Full Led Bluetooth 5.0 5300w",
+        "description": [
+            "Tipos de parlante: Tower",
+            "Incluye batería recargable: Sí",
+            "Con Bluetooth: Sí",
+            "Con luces LED: Sí"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_910557-MLU74297786851_012024-O.webp",
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_910557-MLU74297786851_012024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_709150-MLU74185252022_012024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_987821-MLU74185252042_012024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_856931-MLU74297674473_012024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_750231-MLU74297749365_012024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_663810-MLU74297674461_012024-R.webp"
+        ],
+        "price": 326499,
+        "stock": 15,
+        "shipping": true,
+        "category": "ofertas"
+    },
+    {
+        "title": "Microondas Bgh Digital Quick Chef Eco 20 Litros B120ds20",
+        "description": [
+            "Con grill: Sí",
+            "Con descongelado automático por peso: Sí",
+            "Capacidad en volumen: 20 L",
+            "Con traba de seguridad para niños: Sí"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_619777-MLU75982911853_042024-O.webp",
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_619777-MLU75982911853_042024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_907474-MLU77801268210_072024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_909575-MLU78022055585_072024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_723131-MLU75983037309_042024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_861345-MLU72675216516_112023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_739978-MLU76558498647_052024-R.webp"
+        ],
+        "price": 233999,
+        "stock": 5,
+        "shipping": false,
         "category": "ofertas"
     },
     {
@@ -65,7 +154,15 @@
             "Producto indicado para utilizar en una taza de 240 ml."
         ],
         "image": "https://http2.mlstatic.com/D_NQ_NP_895543-MLU72851431786_112023-O.webp",
-        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_895543-MLU72851431786_112023-R.webp","https://http2.mlstatic.com/frontend-assets/vpp-frontend/picture-play.svg","https://http2.mlstatic.com/D_Q_NP_762275-MLU70292109289_072023-R.webp","https://http2.mlstatic.com/D_Q_NP_671502-MLU70292218497_072023-R.webp", "https://http2.mlstatic.com/D_Q_NP_856029-MLU70292109293_072023-R.webp","https://http2.mlstatic.com/D_Q_NP_941126-MLU70292109291_072023-R.webp","https://http2.mlstatic.com/D_Q_NP_848566-MLU75763811291_042024-R.webp"],
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_895543-MLU72851431786_112023-R.webp",
+            "https://http2.mlstatic.com/frontend-assets/vpp-frontend/picture-play.svg",
+            "https://http2.mlstatic.com/D_Q_NP_762275-MLU70292109289_072023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_671502-MLU70292218497_072023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_856029-MLU70292109293_072023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_941126-MLU70292109291_072023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_848566-MLU75763811291_042024-R.webp"
+        ],
         "price": 10499,
         "stock": 7,
         "shipping": false,
@@ -79,7 +176,14 @@
             "Envase de plástico de 485grs"
         ],
         "image": "https://http2.mlstatic.com/D_NQ_NP_897562-MLA49076098557_022022-O.webp",
-        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_897562-MLA49076098557_022022-R.webp","https://http2.mlstatic.com/D_Q_NP_984452-MLU72804726533_112023-R.webp","https://http2.mlstatic.com/D_Q_NP_985587-MLU72728931134_112023-R.webp","https://http2.mlstatic.com/D_Q_NP_806138-MLU73474164132_122023-R.webp","https://http2.mlstatic.com/D_Q_NP_801643-MLU73566752691_122023-R.webp", "https://http2.mlstatic.com/D_Q_NP_869373-MLU73567055209_122023-R.webp"],
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_897562-MLA49076098557_022022-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_984452-MLU72804726533_112023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_985587-MLU72728931134_112023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_806138-MLU73474164132_122023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_801643-MLU73566752691_122023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_869373-MLU73567055209_122023-R.webp"
+        ],
         "price": 3199,
         "stock": 7,
         "shipping": true,
@@ -95,23 +199,90 @@
             "Es orgánico."
         ],
         "image": "https://http2.mlstatic.com/D_NQ_NP_756337-MLU72823084179_112023-O.webp",
-        "thumbnails": ["https://http2.mlstatic.com/D_NQ_NP_756337-MLU72823084179_112023-O.webp","https://http2.mlstatic.com/D_Q_NP_913661-MLU75838526905_042024-R.webp","https://http2.mlstatic.com/D_Q_NP_892550-MLU75838556711_042024-R.webp"],
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_NQ_NP_756337-MLU72823084179_112023-O.webp",
+            "https://http2.mlstatic.com/D_Q_NP_913661-MLU75838526905_042024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_892550-MLU75838556711_042024-R.webp"
+        ],
         "price": 88900,
         "stock": 11,
         "shipping": false,
         "category": "supermercado"
     },
     {
+        "title": "Yerba mate Playadito suave 1000g",
+        "description": [
+            "Unidades por pack: 1",
+            "Sabor: Suave",
+            "Tipo de envase: Bolsa",
+            "Peso neto: 1000 g",
+            "Yerba con palo.",
+            "Beneficios: antioxidante."
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_777256-MLA74074280234_012024-O.webp",
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_777256-MLA74074280234_012024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_651826-MLU73428079987_122023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_732016-MLU73428079997_122023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_873831-MLU73338964462_122023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_617658-MLU73428011345_122023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_750390-MLU73428011351_122023-R.webp"
+
+        ],
+        "price": 3899,
+        "stock": 13,
+        "shipping": false,
+        "category": "supermercado"
+    },
+    {
+        "title": "Alfajor Mini Jorgito Chocolate Dulce De Leche X6 Unidades",
+        "description": ["Marca Jorgito","Unidades por envase: 6","Es libre de azúcar : No","Es libre de lactosa","Conservación del producto"],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_976585-MLA51387145212_092022-O.webp",
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_976585-MLA51387145212_092022-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_828599-MLU70065019495_062023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_650955-MLU70065028821_062023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_853798-MLU70045096476_062023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_705635-MLU72746406528_112023-R.webp"
+        ],
+        "price": 1888,
+        "stock": 11,
+        "shipping": false,
+        "category": "supermercado"
+    },
+    {
+        "title": "Old Prince Noveles Cordero Y Arroz Adulto X 18 Kg",
+        "description": [
+            "Mascota recomendada: Perro","Tamaño de la raza: Mediana/Grande","Sabor: Cordero","Etapa de vida de la mascota: Adulto","Tipo de comida: Seca"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_916955-MLU74980024315_032024-O.webp",
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_916955-MLU74980024315_032024-R.webp","https://http2.mlstatic.com/D_Q_NP_881928-MLU73420528775_122023-R.webp","https://http2.mlstatic.com/D_Q_NP_908506-MLU73420528777_122023-R.webp"
+        ],
+        "price": 46990,
+        "stock": 7,
+        "shipping": false,
+        "category": "supermercado"
+    },
+    {
         "title": "Zapatilla Puma Rosa Blstr Mix Wns",
-        "description": ["Marca: Puma",
-        "Materiales de la suela: Goma",
-        "Deportes recomendados: Casual",
-        "Materiales del exterior: Cuero",
-        "Temporada de lanzamiento: Todas las estaciones",
-        "Diseño De La Tela: Lisa"
+        "description": [
+            "Marca: Puma",
+            "Materiales de la suela: Goma",
+            "Deportes recomendados: Casual",
+            "Materiales del exterior: Cuero",
+            "Temporada de lanzamiento: Todas las estaciones",
+            "Diseño De La Tela: Lisa"
         ],
         "image": "https://http2.mlstatic.com/D_NQ_NP_657349-MLA75962130896_052024-O.webp",
-        "thumbnails": ["https://http2.mlstatic.com/D_Q_NP_861521-MLA75962130900_052024-R.webp", "https://http2.mlstatic.com/D_Q_NP_870653-MLA75962130902_052024-R.webp", "https://http2.mlstatic.com/D_Q_NP_618788-MLA75962130898_052024-R.webp","https://http2.mlstatic.com/D_Q_NP_722318-MLA75962130892_052024-R.webp","https://http2.mlstatic.com/D_Q_NP_959517-MLA75962130894_052024-R.webp","https://http2.mlstatic.com/D_Q_NP_871584-MLA76069187180_052024-R.webp"],
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_861521-MLA75962130900_052024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_870653-MLA75962130902_052024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_618788-MLA75962130898_052024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_722318-MLA75962130892_052024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_959517-MLA75962130894_052024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_871584-MLA76069187180_052024-R.webp"
+        ],
         "price": 159999,
         "stock": 2,
         "shipping": true,
@@ -120,11 +291,18 @@
     {
         "title": "Reloj Tommy Hilfiger Para Hombre De Acero",
         "description": [
-        "Tipo de movimiento: cuarzo.",
-        "Resistente al agua."
+            "Tipo de movimiento: cuarzo.",
+            "Resistente al agua."
         ],
         "image": "https://http2.mlstatic.com/D_NQ_NP_906280-MLU74440402230_022024-O.webp",
-        "thumbnails": ["https://http2.mlstatic.com/D_NQ_NP_906280-MLU74440402230_022024-O.webp","https://http2.mlstatic.com/D_Q_NP_866393-MLU72418305346_102023-R.webp","https://http2.mlstatic.com/D_Q_NP_636645-MLU72486066901_102023-R.webp","https://http2.mlstatic.com/D_Q_NP_998243-MLU72486066907_102023-R.webp","https://http2.mlstatic.com/D_Q_NP_695716-MLU74986336296_032024-R.webp", "https://http2.mlstatic.com/D_Q_NP_871640-MLU74986336286_032024-R.webp"],
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_NQ_NP_906280-MLU74440402230_022024-O.webp",
+            "https://http2.mlstatic.com/D_Q_NP_866393-MLU72418305346_102023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_636645-MLU72486066901_102023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_998243-MLU72486066907_102023-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_695716-MLU74986336296_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_871640-MLU74986336286_032024-R.webp"
+        ],
         "price": 375754,
         "stock": 25,
         "shipping": false,
@@ -132,13 +310,87 @@
     },
     {
         "title": "Campera De Mujer Montagne Umay - Montagne Tienda",
-        "description": ["Marca: Montagne","Material principal: Poliamida","Capucha: Sí"
+        "description": [
+            "Marca: Montagne",
+            "Material principal: Poliamida",
+            "Capucha: Sí"
         ],
         "image": "https://http2.mlstatic.com/D_NQ_NP_877285-MLA51355932321_082022-O.webp",
-        "thumbnails": ["https://http2.mlstatic.com/D_NQ_NP_877285-MLA51355932321_082022-O.webp","https://http2.mlstatic.com/D_Q_NP_911135-MLA51356012088_082022-R.webp","https://http2.mlstatic.com/D_Q_NP_901162-MLA51355829634_082022-R.webp","https://http2.mlstatic.com/D_Q_NP_993683-MLA51356012091_082022-R.webp","https://http2.mlstatic.com/D_Q_NP_836022-MLA51356012093_082022-R.webp","https://http2.mlstatic.com/D_Q_NP_736823-MLA47445708190_092021-R.webp"],
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_NQ_NP_877285-MLA51355932321_082022-O.webp",
+            "https://http2.mlstatic.com/D_Q_NP_911135-MLA51356012088_082022-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_901162-MLA51355829634_082022-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_993683-MLA51356012091_082022-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_836022-MLA51356012093_082022-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_736823-MLA47445708190_092021-R.webp"
+        ],
         "price": 536094,
         "stock": 20,
         "shipping": true,
+        "category": "moda"
+    },
+    {
+        "title": "Calzado Para Hombre Nike Air Zoom Pegasus 39 Negro",
+        "description": [
+            "Marca: Nike",
+            "Deportes recomendados: Running"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_665877-MLA74913737478_032024-O.webp",
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_665877-MLA74913737478_032024-I.jpg",
+            "https://http2.mlstatic.com/D_Q_NP_661926-MLA74913737482_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_661926-MLA74913737482_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_807645-MLA74913737484_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_763868-MLA74913737486_032024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_771821-MLA74913737488_032024-R.webp"
+        ],
+        "price": 139649,
+        "stock": 5,
+        "shipping": true,
+        "category": "moda"
+    },
+    {
+        "title": "Buzo Bling King Of The Kongo",
+        "description": [
+            "Marca: King of the Kongo",
+            "Temporada de lanzamiento: Otoño/Invierno",
+            "Capucha: Sí",
+            "Material principal: Algodón"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_610376-MLA76511312340_052024-O.webp",
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_Q_NP_610376-MLA76511312340_052024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_939200-MLA76511312346_052024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_737877-MLA76511312342_052024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_824486-MLA76511312344_052024-R.webp"
+        ],
+        "price": 101992,
+        "stock": 7,
+        "shipping": false,
+        "category": "moda"
+    },
+    {
+        "title": "Cartera Pequeña Shopping Bag Juanita Jo Savage Dama Mujer Color Suela Diseño De La Tela",
+        "description": [
+            "Tipo de cartera: Shopping Bag",
+            "Marca: Juanita Jo",
+            "Ancho: 30 cm",
+            "Color: Suela",
+            "Género: Mujer",
+            "Altura: 33 cm"
+        ],
+        "image": "https://http2.mlstatic.com/D_NQ_NP_610376-MLA76511312340_052024-O.webp",
+        "thumbnails": [
+            "https://http2.mlstatic.com/D_NQ_NP_987070-MLU75689821543_042024-O.webp",
+            "https://http2.mlstatic.com/D_Q_NP_987070-MLU75689821543_042024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_604851-MLU75689821549_042024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_911486-MLU75530311358_042024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_813752-MLU75690025195_042024-R.webp",
+            "https://http2.mlstatic.com/D_Q_NP_820294-MLU75530467998_042024-R.webp"
+        ],
+        "price": 129900,
+        "stock": 17,
+        "shipping": false,
         "category": "moda"
     }
 ]

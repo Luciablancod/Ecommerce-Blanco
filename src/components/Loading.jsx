@@ -1,12 +1,13 @@
 export const Loading = () => {
-    return(
-        <>
-        <div className="container">
-        <div class="spinner-border text-info" role="status">
-  <span class="visually-hidden">Loading...</span>
-</div>
-
+    return (
+        <div className="container my-5">
+            <div className="row">
+                <div className="col text-center">
+                    <div className="spinner-grow text-secondary" role="status">
+                        <span className="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+            </div>
         </div>
-        </>
     )
 }

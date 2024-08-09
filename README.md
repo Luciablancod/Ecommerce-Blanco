@@ -1,13 +1,9 @@
 # E-commerce Mercado Libre - Lucia Blanco
 ## Curso React JS - Coder House
 ------------------------
-### Primera Pre-entrega
 
-**Consigna:** Crea una carpeta dentro de src llamada components que contenga la implementación del componente NavBar dentro del archivo NavBar.js. Su funcionalidad es la de renderizar una barra de menú (Navbar).
+**Consigna:** Desarrollar una app de un e-commerce para poder vender productos de un rubro a elección.
 
-**Objetivo:** Crear el menú e-commerce de tu proyecto.
+**Stack:** React JS, css, html, bootsrap, firebase.
 
-**Consigna:** Crea un componente CartWidget con un ícono y una notificación mostrando un número hardcodeado (fijo). Este servirá luego para indicar la cantidad de elementos que tenemos en el carrito, pero por ahora, mostrará un número hardcodeado (colocado en el código). Ubica este componente (CartWidget) dentro de Navbar.. Agrega algunos estilos con bootstrap/materialize u otro.
-Crea un componente contenedor ItemListContainer.js con una prop greeting, y muestra el mensaje dentro del contenedor con el styling integrado.
-
-**Objetivo:** Crear la landing de tu proyecto.
+**Features:** El ecommerce muestra los productos que se ofrecen. El usuario puede filtrar por categoria y ver en detalle cada producto. A traves de un contador puede elegir la cantidad de productos a comprar, estos se agregaran al carrito. En el carrito el usuario puede continuar con la compra o si se arrepiente puede eliminar individualmente por producto o todos los productos. El usuario finaliza su compra en el checkout llenando un formulario con sus datos, la compra queda registrada en la base de datos.

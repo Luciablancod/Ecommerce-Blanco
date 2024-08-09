@@ -180,7 +180,7 @@ nav .material-symbols-outlined {
 }
 
 .card-products .card-price{
-  font-size: 24px;
+  font-size: 1.2em;
 }
 
 .shipping{
@@ -198,5 +198,9 @@ nav .material-symbols-outlined {
   border-radius: 6px;
   min-height: 400px;
   align-content: center;
+}
+
+.banner h2 , .banner h3{
+  color: white;
 }
 

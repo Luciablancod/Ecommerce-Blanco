@@ -22,7 +22,7 @@ export const Checkout = () => {
             buyer: { name: name, phone: phone, email: email },
             items: cart.map(item => ({ id: item.id, title: item.title, price: item.price })),
             total: sumProducts(),
-            date: `${day.getDate()}-${day.getMonth()+1}-${day.getFullYear()} ${day.getHours()}:${day.getMinutes()}:${day.getSeconds()}`
+            date: `${day.getDate()}-${day.getMonth() + 1}-${day.getFullYear()} ${day.getHours()}:${day.getMinutes()}:${day.getSeconds()}`
         }
 
         const db = getFirestore();
@@ -71,34 +71,32 @@ export const Checkout = () => {
 
 
     return (
-        <>
-            <div className="container ">
-                <div className="row ">
-                    <div className="col-md-6 me-4 carrousel-products p-5  my-5">
-                        <form>
-                            <div className="mb-3">
-                                <label htmlFor="user-name" className="form-label">Nombre y Apellido</label>
-                                <input type="text" className="form-control" name="user-name" onInput={(e) => { setName(e.target.value) }} />
-                            </div>
-                            <div className="mb-3">
-                                <label htmlFor="user-email" className="form-label">Email</label>
-                                <input type="email" className="form-control" name="user-email" onInput={(e) => { setEmail(e.target.value) }} />
+        <div className="container ">
+            <div className="row ">
+                <div className="col-md-6 me-4 carrousel-products p-5  my-5">
+                    <form>
+                        <div className="mb-3">
+                            <label htmlFor="user-name" className="form-label">Nombre y Apellido</label>
+                            <input type="text" className="form-control" name="user-name" onInput={(e) => { setName(e.target.value) }} />
+                        </div>
+                        <div className="mb-3">
+                            <label htmlFor="user-email" className="form-label">Email</label>
+                            <input type="email" className="form-control" name="user-email" onInput={(e) => { setEmail(e.target.value) }} />
 
-                            </div>
-                            <div className="mb-3">
-                                <label htmlFor="user-phone" className="form-label">Teléfono</label>
-                                <input type="number" className="form-control" name="user-phone" onInput={(e) => { setPhone(e.target.value) }} />
-                            </div>
-                            <button type="button" className="btn btn-primary" onClick={generarOrden} >Submit</button>
-                        </form>
-                    </div>
+                        </div>
+                        <div className="mb-3">
+                            <label htmlFor="user-phone" className="form-label">Teléfono</label>
+                            <input type="number" className="form-control" name="user-phone" onInput={(e) => { setPhone(e.target.value) }} />
+                        </div>
+                        <button type="button" className="btn btn-primary my-3" onClick={generarOrden} >Finalizar compra</button>
+                    </form>
+                </div>
 
-                    <div className="col-md-5  ">
-                        <Cart />
-                    </div>
+                <div className="col-md-5  ">
+                    <Cart />
                 </div>
             </div>
-        </>
+        </div>
     )
 
 }

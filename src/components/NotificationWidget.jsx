@@ -1,5 +1,5 @@
 export const NotificationWidget = () => {
-    return(
+    return (
         <>
             <button type="button" className="btn position-relative mt-1 p-1">
                 <span className="material-symbols-outlined ">
@@ -9,5 +9,4 @@ export const NotificationWidget = () => {
             </button>
         </>
     )
-    
 }
